@@ -7,6 +7,7 @@ The closer your hands to the sensor, the less light it detects, the lower the nu
 Ps: This project requires an auditory output device to attach to the raspberry pi, such as headphones, speakers or earphones. 
 Ps: Make sure you have an environment to run python, as well as PureData
 To start the program:
+
 1: Import the files into your raspberry pi (If they are already there, they will open up on startup, but the rest of the steps will be for your first time runing this)
 
 2: Open the Murchison_Pelletier_Python_Script.py file 
