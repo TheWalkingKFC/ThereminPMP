@@ -8,9 +8,13 @@ Ps: This project requires an auditory output device to attach to the raspberry p
 Ps: Make sure you have an environment to run python, as well as PureData
 To start the program:
 1: Import the files into your raspberry pi (If they are already there, they will open up on startup, but the rest of the steps will be for your first time runing this)
+
 2: Open the Murchison_Pelletier_Python_Script.py file 
+
 3: Open the PureData file called Murchison_Pelletier_theremine.pd
+
 4: Start the Python script 
+
 5: Lift hand away from sensor to increase sound, bring closer to sensor to decrease sound
 	
 	
